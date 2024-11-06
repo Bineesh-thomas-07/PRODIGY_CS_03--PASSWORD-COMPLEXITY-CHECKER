@@ -55,7 +55,7 @@ This Python project is a password strength checker that evaluates a password bas
 ## Example
 
 ```
-Enter your password: Password123!
+Enter your password: Password@#123!
 Password Strength: Very Strong
 ```
 
